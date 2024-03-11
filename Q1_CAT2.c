@@ -1,3 +1,4 @@
+//program to calculate and display the electricity bill for a given customer based on the units consumed 
 #include <stdio.h>
 
 int main() {
